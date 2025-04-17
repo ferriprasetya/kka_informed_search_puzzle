@@ -2,7 +2,7 @@
 Source: https://github.com/aimacode/aima-python
 
 ## Step To Analyze
-### 1. Open search4e.ipynb file
+### 1. Open [search4e.ipynb](search4e.ipynb) file
 ### 2. Click Run All to run all cells
 If any cells error except the Puzzle Problem, just ignore it (idk too wkwk)
 ### 3. Go to 8 Puzzle Problems section
